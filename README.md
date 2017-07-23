@@ -1,2 +1,3 @@
-# eboxxjs
-azure sails.js site
+# eboxx
+
+a [Sails](http://sailsjs.org) application
